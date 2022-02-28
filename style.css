@@ -1,0 +1,15 @@
+body {
+    box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+h1 {
+    color: #282828;
+    font-size: 64px;
+}
+strong {
+    color: orange;
+}
